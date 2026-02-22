@@ -6,6 +6,7 @@ This project presents an E-Commerce Sales Analysis Dashboard built using Python,
 
 The dashboard provides interactive visual insights into total sales, profit margins, top customers, product performance, and state-wise revenue distribution.
 
+
 🎯 Objectives
 
 Analyze overall sales and profit performance
