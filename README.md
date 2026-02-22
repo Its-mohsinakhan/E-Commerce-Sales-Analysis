@@ -1,11 +1,10 @@
 📊 E-Commerce Sales Analysis Dashboard
+
 📌 Project Overview
 
 This project presents an E-Commerce Sales Analysis Dashboard built using Python, SQL, and Power BI. The goal is to analyze sales performance, profitability, customer behavior, and regional trends to support data-driven business decisions.
 
 The dashboard provides interactive visual insights into total sales, profit margins, top customers, product performance, and state-wise revenue distribution.
-
-🖼️ Dashboard Preview
 
 🎯 Objectives
 
